@@ -27,7 +27,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/urfave/cli v1.22.5 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
+	golang.org/x/net v0.17.0
 	google.golang.org/genproto v0.0.0-20220126215142-9970aeb2e350 // indirect
 	google.golang.org/grpc v1.40.0
 	k8s.io/mount-utils v0.23.3
